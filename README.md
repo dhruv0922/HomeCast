@@ -23,3 +23,6 @@ Develop a predictive model that forecasts housing price trends in different neig
 - `preprocessing.py`: Data preprocessing logic.
 - `app.py`: Flask API for predictions.
 - `requirements.txt`: List of dependencies.
+
+#Update - 09/29/2025:
+The predictive model used here inspired the creation of Affordly.us. Please ensure to visit: https://www.affordly.us/, in order to see how the model was utilized and depicted to users.
